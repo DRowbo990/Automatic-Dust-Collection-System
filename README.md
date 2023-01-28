@@ -10,3 +10,6 @@ This project is public to read through and learn while using an STM32L476 microc
 - Slave: Sets up slave Blue Tooth Controller.
 - Main.c: File on master Blue Tooth Controller to run system.
 - startup_stm32l476xx.s & stm32l476xx.h: Defined Macros. 
+
+## Demonstration Video
+https://youtu.be/mVbBOsIsJc8
