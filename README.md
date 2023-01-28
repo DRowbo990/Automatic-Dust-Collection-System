@@ -1,5 +1,5 @@
 # Automatic-Dust-Collection-System
-Repository for ECE3710 final project
+Repository for ECE3710 final project<br />
 Authors: David Rowbotham, Bryant Israelsen, Ryan Kirby.
 
 This project is public to read through and learn while using an STM32L476 microcontroller. Please do not copy or steal this code for any school or educational purposes.
